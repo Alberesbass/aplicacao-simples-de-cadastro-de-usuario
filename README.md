@@ -7,10 +7,12 @@ Linguagens utilizadas: PHP, HTML, CSS, SQL e MySQL
 
 IDE sugerida pelo docente: VSCode e PHP, além do XAMPP.
 
-### Atividade proposta:
+## Atividade proposta:
 Compreender e implementar uma aplicação simples de cadastro de usuário utilizando tecnologia de banco de dados Mysql com PHPMyadmin, com validação de campo e para armazenamento das informações no banco de dados, a utilização da linguagem PHP.
 
-### Checklist: 
+<img src="./cadastro-simples.gif" alt="gif da tela do projeto">
+
+## Checklist: 
 - Instalação das ferramentas necessárias para programação. Neste caso, o XAMPP e VSCode; 
 - Criação do projeto e sua estrutura de diretórios dentro da pasta C:/xampp/htdocs/cadastro-simplificado; 
 - Criação dos arquivos: index.php, conexao.php, cadastrar.php, css/formulario.css; 
@@ -31,7 +33,7 @@ Compreender e implementar uma aplicação simples de cadastro de usuário utiliz
 4. Preencha o formulário de cadastro e clique em "Cadastrar"
 5. Verifique se os dados são inseridos corretamente no banco de dados.
 
-### Definição dos objetivos da aula prática:
+## Definição dos objetivos da aula prática:
 Esse projeto deve ser criado diretamente na pasta htdocs, que está presente dentro do diretório principal do Xampp. 
 Em seguida abra o projeto no VSCode.
 O nome da pasta do projeto será cadastro-simplificado.
@@ -55,7 +57,7 @@ Poderia usar o PDO do PHP para conexão, já que este é baseado em orientação
 No entanto, para compreender o processo de conexão a banco de dados, sugere-se utilizar o formato procedural para que a compreensão seja facilitada.
 
 
-### Resultados da aula prática: 
+## Resultados da aula prática: 
 Construção de um pequeno projeto de formulário de cadastro contendo três campos sendo: nome, e-mail e senha.
 A página deverá ser escrita em PHP para garantir a gravação dos dados em banco de dados e a página principal, aquela que será o formulário de cadastro, deverá ser estilizada com CSS. 
 O projeto deverá conter no total 5 arquivos, sendo 3 de PHP, 1 de CSS e um script de SQL da base de dados construída. 
